@@ -165,4 +165,6 @@
 "C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Program.cs"
 "C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Startup.cs"
 "C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Controllers\CitiesController.cs"
+"C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Controllers\PointsOfInterestController.cs"
 "C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Models\CityDto.cs"
+"C:\Users\jakub.rakowski\Documents\Visual Studio 2015\Projects\buildingYourFirstApiWithNetCore\src\buildingYourFirstApiWithNetCore\Models\PointsOfInterestDto.cs"
