@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{182B0C0A-809A-4570-A1B5-303B6F2A9878}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E7E7C1BD-ED79-49AC-BE24-7AE723976159}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "buildingYourFirstApiWithNetCore", "src\buildingYourFirstApiWithNetCore\buildingYourFirstApiWithNetCore.xproj", "{2FE50FBE-7331-4AF1-B11D-30D472E8804B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE50FBE-7331-4AF1-B11D-30D472E8804B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE50FBE-7331-4AF1-B11D-30D472E8804B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE50FBE-7331-4AF1-B11D-30D472E8804B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE50FBE-7331-4AF1-B11D-30D472E8804B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FE50FBE-7331-4AF1-B11D-30D472E8804B} = {182B0C0A-809A-4570-A1B5-303B6F2A9878}
+	EndGlobalSection
+EndGlobal
